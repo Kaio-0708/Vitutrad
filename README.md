@@ -1,3 +1,4 @@
+![Captura de tela 2024-09-19 231802](https://github.com/user-attachments/assets/301af293-05bf-432e-9a45-c5628fd736ad)
 
 # VITUTRAD
 
