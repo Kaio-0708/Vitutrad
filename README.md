@@ -1,5 +1,3 @@
-![Captura de tela 2024-09-19 231802](https://github.com/user-attachments/assets/301af293-05bf-432e-9a45-c5628fd736ad)
-
 # VITUTRAD
 
 Este projeto é um programa simples em Python que utiliza as bibliotecas **googletrans** e **gTTS (Google Text-to-Speech)** para traduzir um texto em português para vários idiomas e reproduzir o texto traduzido em áudio.
@@ -37,11 +35,9 @@ Antes de rodar o projeto, certifique-se de que as seguintes bibliotecas estão i
 - **gTTS (Google Text-to-Speech)**: Biblioteca para converter texto em áudio utilizando o Google Text-to-Speech.
 - **os**: Módulo para execução de comandos no sistema operacional, como a reprodução de arquivos de áudio.
 
-## Melhorias Futuras
+## Exemplo de uso
 
-- Adicionar suporte a mais idiomas.
-- Permitir que o usuário defina o idioma de origem do texto.
-- Implementar uma interface gráfica para melhorar a experiência do usuário.
+![Captura de tela 2024-09-19 231802](https://github.com/user-attachments/assets/301af293-05bf-432e-9a45-c5628fd736ad)
 
 ## Contribuições
 
